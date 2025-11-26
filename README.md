@@ -1,4 +1,4 @@
-# RVCon - Site Institucional da Empresa de Construção Civil
+# RVCon - Site Responsivo da Empresa de Construção Civil
 
 ## Visão Geral
 
